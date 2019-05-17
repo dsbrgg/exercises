@@ -1,1 +1,0 @@
-/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/employee_departments/target/debug/employee_departments.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/employee_departments/src/main.rs

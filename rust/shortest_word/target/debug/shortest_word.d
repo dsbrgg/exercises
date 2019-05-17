@@ -1,1 +1,0 @@
-/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/shortest_word/target/debug/shortest_word.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/shortest_word/src/main.rs
