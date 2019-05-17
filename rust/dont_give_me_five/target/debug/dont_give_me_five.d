@@ -1,0 +1,1 @@
+/Users/opuzzz/Documents/opuzzz/playground/rust-book/exercises/dont_give_me_five/target/debug/dont_give_me_five.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/exercises/dont_give_me_five/src/main.rs

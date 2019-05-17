@@ -1,0 +1,1 @@
+/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/sum_probability/target/debug/sum_probability.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/sum_probability/src/main.rs

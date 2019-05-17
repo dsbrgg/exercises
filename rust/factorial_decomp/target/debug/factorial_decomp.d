@@ -1,0 +1,1 @@
+/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/factorial_decomp/target/debug/factorial_decomp.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/factorial_decomp/src/main.rs

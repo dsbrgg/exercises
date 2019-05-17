@@ -1,0 +1,1 @@
+/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/squared_strings/target/debug/squared_strings.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/squared_strings/src/main.rs

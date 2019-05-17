@@ -1,0 +1,1 @@
+/Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/mini_bit_move/target/debug/mini_bit_move.dSYM: /Users/opuzzz/Documents/opuzzz/playground/rust-book/00_exercises/mini_bit_move/src/main.rs
