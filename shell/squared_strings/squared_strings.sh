@@ -17,6 +17,13 @@ vertMirror() {
   echo $r
 }
 
+horMirror() {
+  p="$(echo $1 | rev)"
+  r=${p//n\/\n}
+
+  echo $p
+}
+
 oper() {
   $1 $2
 }
