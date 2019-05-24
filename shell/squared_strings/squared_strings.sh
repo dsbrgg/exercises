@@ -18,10 +18,30 @@ vertMirror() {
 }
 
 horMirror() {
-  p="$(echo $1 | rev)"
-  r=${p//n\/\n}
+  s=$1
+  p=${s//,/}
+  a=()
+  r=""
 
-  echo $p
+  for (( i = ${#p}; i >= 0; i -= 4 ))
+  do
+    if [[ $i -gt 0 ]]; then
+      a+=(${p:i-4:4})
+    fi
+  done
+
+  l=${#a[@]}
+
+  for e in "${a[@]}";
+  do
+    if [[ $e != ${a[@]:l-1} ]]; then
+      r="${r}${e}\n"
+    else
+      r="${r}${e}"
+    fi
+  done
+
+  echo $r
 }
 
 oper() {

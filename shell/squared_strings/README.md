@@ -1,3 +1,5 @@
+# Description
+
 This kata is the first of a sequence of four about "Squared Strings".
 
 You are given a string of `n` lines, each substring being `n` characters long: 
